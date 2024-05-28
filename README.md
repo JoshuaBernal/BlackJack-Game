@@ -6,4 +6,4 @@ This website contains a very simple but functional BlackJack game.
 #### LIVE WEBSITE
 
 Open the live website using this Netlify link:
-https://joshuabernal-blackjackgame.netlify.app/ 
+https://jmb-blackjackgame.netlify.app/ 
